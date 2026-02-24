@@ -1,1 +1,2 @@
 This is text file
+This is sample file
